@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'Ac''Ze'
+tr Ac > Ze
