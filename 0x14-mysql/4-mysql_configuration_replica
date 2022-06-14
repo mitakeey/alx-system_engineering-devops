@@ -41,7 +41,7 @@ server-id  =  2
 # Disabling symbolic-links is recommended to prevent assorted security risks
 symbolic-links=0
 
-# setting the base name & location of mysql binary log file
+# setting the base name & location of mysql bunary log file
 log_bin  = /var/log/mysql/mysql-bin.log
 
 # name of database to replicate
